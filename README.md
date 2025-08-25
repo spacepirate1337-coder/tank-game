@@ -1,5 +1,7 @@
 # Spectre Web Clone
 
+![Spectre Web Clone Screenshot](assets/Screenshot%202025-08-25%20at%2014.10.04.png)
+
 A faithful web-based recreation of the classic 1991 tank combat game Spectre, built with modern web technologies and a custom Entity-Component-System architecture.
 
 ## 🎮 Game Features
